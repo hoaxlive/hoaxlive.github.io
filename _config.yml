@@ -1,14 +1,10 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: HOAX.LIVE
+title: HOAX.LIVE 
+description: The Official Site for Hoax Wars LIVE 
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - video 
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +15,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: hoaxwars@protonmail.com 
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -105,4 +101,5 @@ exclude: [
 ]
 
 # Theme
+#theme: jekflix
 version: v3.1.1
