@@ -1,6 +1,7 @@
-_site
+_site/
 .DS_Store
-.sass-cache
-jekyll-metadata
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache/
 _config.gh-pages.yml
 Gemfile.lock
