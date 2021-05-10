@@ -16,4 +16,4 @@ tags:
 author: hoaxwars
 paginate: true
 ---
-## The most banned comedy show on planet earth.
+## Bookmark HOAXWARS.LIVE. The most banned comedy show on planet earth.
