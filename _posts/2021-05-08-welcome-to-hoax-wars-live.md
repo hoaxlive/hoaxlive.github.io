@@ -1,7 +1,7 @@
 ---
 date: 2021-05-08T23:48:05.000Z
 layout: post
-title: Welcome to Hoax.LIVE
+title: Welcome to HoaxWars.LIVE
 subtitle: 'The official site of Hoax Wars LIVE'
 description: >-
   The most banned comedy show on planet earth.  
@@ -16,4 +16,4 @@ tags:
 author: hoaxwars
 paginate: true
 ---
-The most banned comedy show on planet earth.
+## The most banned comedy show on planet earth.
